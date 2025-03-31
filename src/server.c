@@ -1,5 +1,5 @@
-#include "../include/hello.h"
 
+#include "../include/server.h"
 #include <fcntl.h>
 #include <stdbool.h>
 #include <stdio.h>

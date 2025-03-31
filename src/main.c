@@ -4,7 +4,7 @@
 #include <string.h>
 #include <unistd.h>
 
-#include "../include/hello.h"
+#include "../include/server.h"
 #include "../include/utils.h"
 
 /**

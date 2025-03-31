@@ -14,6 +14,7 @@ void panic(char* str) {
 /**
  * @brief usage - A function that prints the proper usage of the program and
  * exits unsuccessfully.
+ *
  * @param prog_name - a pointer to the program name
  */
 void usage(char* prog_name) {
