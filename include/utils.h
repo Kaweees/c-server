@@ -14,7 +14,7 @@
 
 #define UNUSED(x) ((void)(x))
 
-#define USAGE_STRING "Usage: %s [ infile ]\n" /* Program usage string */
+#define USAGE_STRING "Usage: %s [-p port] [-d directory] [-q queue_size]\n" /* Program usage string */
 #define MIN_ARGS 1
 #define MAX_ARGS 2
 #define SYSCALL_ERROR -1
