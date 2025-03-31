@@ -3,7 +3,7 @@
 
 ## Program Section: change these variables based on your program
 # The name of the program to build.
-TARGET := targetname
+TARGET := server
 
 ## Compiler Section: change these variables based on your compiler
 # -----------------------------------------------------------------------------

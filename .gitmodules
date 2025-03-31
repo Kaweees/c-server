@@ -1,0 +1,4 @@
+[submodule "site"]
+	path = site
+	url = https://github.com/Kaweees/kaweees.github.io
+	branch = gh-pages

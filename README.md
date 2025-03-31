@@ -14,17 +14,17 @@
 
 </div>
 
-<a href="https://github.com/Kaweees/c99-template">
+<a href="https://github.com/Kaweees/c-server">
   <img alt="C Logo" src="assets/img/c.svg" align="right" width="150">
 </a>
 
 <div align="left">
-  <h1><em><a href="https://miguelvf.dev/blog/dotfiles/compendium">~c99-template</a></em></h1>
+  <h1><em><a href="https://github.com/Kaweees/c-server">~c-server</a></em></h1>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 
-A template for developing production-ready C99 applications.
+A template for developing POSIX-compliant concurrent HTTP socket servers in C99.
 
 ### Built With
 
@@ -46,14 +46,14 @@ To get a local copy of the project up and running on your machine, follow these 
 1. Clone the project repository
 
    ```sh
-   git clone https://github.com/Kaweees/c99-template.git
-   cd c99-template
+   git clone https://github.com/Kaweees/c-server.git
+   cd c-server
    ```
 
 2. Build and execute the project
 
    ```sh
-   clear && make && ./target/release/targetname
+   clear && make && ./target/release/server
    ```
 
 <!-- PROJECT FILE STRUCTURE -->
@@ -61,7 +61,7 @@ To get a local copy of the project up and running on your machine, follow these 
 ## Project Structure
 
 ```sh
-.c99-template/
+.c-server/
 ├── .github/                       - GitHub Actions CI/CD workflows
 ├── include/                       - Project header files
 ├── src/                           - Project source files
@@ -78,12 +78,12 @@ The source code for this project is distributed under the terms of the MIT Licen
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Kaweees/c99-template.svg?style=for-the-badge
-[contributors-url]: https://github.com/Kaweees/c99-template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Kaweees/c99-template.svg?style=for-the-badge
-[forks-url]: https://github.com/Kaweees/c99-template/network/members
-[stars-shield]: https://img.shields.io/github/stars/Kaweees/c99-template.svg?style=for-the-badge
-[stars-url]: https://github.com/Kaweees/c99-template/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/Kaweees/c-server.svg?style=for-the-badge
+[contributors-url]: https://github.com/Kaweees/c-server/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Kaweees/c-server.svg?style=for-the-badge
+[forks-url]: https://github.com/Kaweees/c-server/network/members
+[stars-shield]: https://img.shields.io/github/stars/Kaweees/c-server.svg?style=for-the-badge
+[stars-url]: https://github.com/Kaweees/c-server/stargazers
 
 <!-- MARKDOWN SHIELD BAGDES & LINKS -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
